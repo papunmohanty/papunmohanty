@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust, React Native**
 
-- 📝 I started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/) recently
+- 📝 I recently started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/)
 
 - 💬 Ask me about **Python, DevOps, Linux, Cloud**
 
