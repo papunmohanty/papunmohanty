@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Software Developer</h3>
 <img align="right" alt="Coding" width=400 src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=papunmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="papunmohanty" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=papunmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="papunmohanty" /> </p> -->
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" alt="papunmohanty" /> </p>
 
 - 🔭 I’m currently working on **Reusable Micro Services, Opensource tools, GenAI Agents and Apps**
 
