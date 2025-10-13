@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Reusable Micro Services, Opensource tools, GenAI Agents and Apps**
 
-- 🌱 I’m currently learning **Rust, React Native**
+<!-- - 🌱 I’m currently learning **Rust, React Native** -->
 
 <!-- 📝 NOTE: Uncomment below line when you have your blog websites ready and you have started ading blohs -->
 <!-- - 📝 I recently started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/) -->
