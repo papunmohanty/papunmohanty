@@ -10,7 +10,7 @@
 
 - 📝 I recently started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/)
 
-- 💬 Ask me about **Python, DevOps, Linux, Cloud**
+- 💬 Ask me about **Python, Rust, Productivity Tools, DevOps, Linux, Cloud**
 
 - 📫 How to reach me **reachtopmohanty@gmail.com**
 
