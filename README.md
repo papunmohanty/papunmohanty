@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning **Rust, React Native**
 
-// - 📝 I recently started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/)
+<!-- 📝 NOTE: Uncomment below line when you have your blog websites ready and you have started ading blohs -->
+<!-- - 📝 I recently started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/) -->
 
 - 💬 Ask me about **Python, Rust, Productivity Tools, DevOps, Linux, Cloud and Possibilities using Softwares**
 
