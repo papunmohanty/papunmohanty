@@ -14,9 +14,8 @@
 
 - 💬 Ask me about **Python, Rust, Productivity Tools, DevOps, Linux, Cloud and Possibilities using Softwares**
 
-- 📫 How to reach me **reachtopmohanty@gmail.com**
+- 📫 You can reach me @ **reachtopmohanty@gmail.com**
 
-- ⚡ Fun fact **I teach with fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
