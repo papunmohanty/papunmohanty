@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papunmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="papunmohanty" /> </p>
 
-- 🔭 I’m currently working on **Reusable Tools, Micro Services, Opensource tools, GenAI Agents and Apps in ![SnakesRattlesnakesGIF](https://github.com/user-attachments/assets/0b452bc8-ef2d-4074-86c1-ae12619d6e4a) Python and 🦀Rust**
+- 🔭 I’m currently working on **Reusable Tools, Micro Services, Opensource tools, GenAI Agents and Apps in ![https://icons8.com/icon/pIJdjOoL6KfU/python]Python and 🦀Rust**
 
 <!-- - 🌱 I’m currently learning **Rust, React Native** -->
 
